@@ -1,2 +1,2 @@
 # Subdirectories to process
-xmake_add_subdirectory(zlib)
+#xmake_add_subdirectory(zlib)
